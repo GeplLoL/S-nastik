@@ -1,0 +1,5 @@
+﻿algoritm
+täpne
+ühetähenduslik
+lõplik
+lahendus
